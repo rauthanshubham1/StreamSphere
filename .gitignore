@@ -3,7 +3,3 @@ node_modules
 .DS_Store
 imp.txt
 .vscode
-
-
-ecr
-sqs
